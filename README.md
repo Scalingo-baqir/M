@@ -15,7 +15,3 @@ We encourage users to report any security vulnerabilities or concerns they encou
 If you have any questions or concerns about this project's compliance with Scalingo's terms, please don't hesitate to open an issue or contact us directly.
 
 Let's build great things responsibly!
-
-## Deploy in One Click
-
-[![Deploy to Scalingo](https://cdn.scalingo.com/deploy/button.svg)](https://my.osc-fr1.scalingo.com/deploy?source=https://github.com/Repthon-Arabic/B)
